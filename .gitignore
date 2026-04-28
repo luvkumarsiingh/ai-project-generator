@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+generated_projects/
+generated_project/
+*.zip
+myvenv/
+projects.db
